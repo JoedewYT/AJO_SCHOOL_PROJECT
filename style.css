@@ -16,7 +16,6 @@
 }
 
 div { 
-  border: 5px solid #000;
   overflow: hidden;
   white-space: nowrap;
 }
