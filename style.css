@@ -14,3 +14,10 @@
   color: black;
   position: inherit;
 }
+
+.menubar div {
+  border: 5px solid #000;
+  width: 60px;
+  overflow: hidden;
+  white-space: nowrap;
+}
