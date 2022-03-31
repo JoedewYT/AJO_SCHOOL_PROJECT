@@ -1,8 +1,16 @@
+body {
+  margin: 0;
+  background: #545644;
+  color: white;
+  text-align: center;
+}
+
 .Title {
   text-align: center;
   font-size: 200%;
   position: relative;
-  color: white;
+  max-width:100%;
+  height:auto;
 }
 
 .Title h2 {
@@ -22,4 +30,6 @@
 
 .Title img {
   filter: brightness(40%);
+  max-width:100%;
+  height:auto;
 }
