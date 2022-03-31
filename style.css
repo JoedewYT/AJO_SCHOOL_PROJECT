@@ -1,4 +1,25 @@
 .Title {
   text-align: center;
   font-size: 200%;
+  position: relative;
+  color: white;
+}
+
+.Title h2 {
+  margin-top: 2px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Title h6 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Title img {
+  filter: brightness(40%);
 }
