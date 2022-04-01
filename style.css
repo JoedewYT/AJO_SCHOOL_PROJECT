@@ -20,6 +20,10 @@ body {
   transform: translate(-50%, -50%);
 }
 
+.Title a {
+  text-decoration: none;
+}
+
 .Title h6 {
   position: absolute;
   top: 50%;
