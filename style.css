@@ -3,6 +3,7 @@ body {
   background: #545644;
   color: white;
   text-align: center;
+  user-select: none
 }
 
 .Title {
