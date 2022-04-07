@@ -39,6 +39,7 @@ body {
 }
 
 .About {
+  display: inline-block;
   align-content: left;
   margin: 10px;
   background: #4A4C3A;
@@ -46,6 +47,7 @@ body {
 }
 
 .Goal {
+  display: inline-block;
   align-content: right;
   margin: 10px;
   background: #4A4C3A;
