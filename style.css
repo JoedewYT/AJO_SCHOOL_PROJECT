@@ -39,7 +39,8 @@ body {
 }
 
 .About {
-  display: inline-block;
+  display: inline;
+  float: left;
   align-content: left;
   margin: 10px;
   background: #4A4C3A;
@@ -47,8 +48,8 @@ body {
 }
 
 .Goal {
-  display: inline-block;
-  align-content: right;
+  display: inline;
+  float: right;
   margin: 10px;
   background: #4A4C3A;
   width: 50%;
