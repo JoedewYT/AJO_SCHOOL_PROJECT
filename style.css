@@ -45,6 +45,7 @@ body {
   margin: 10px;
   background: #4A4C3A;
   width: 47%;
+  padding: 0 2px 0 2px;
 }
 
 .Goal {
@@ -53,4 +54,5 @@ body {
   margin: 10px;
   background: #4A4C3A;
   width: 50%;
+  padding: 0 2px 0 2px;
 }
