@@ -44,7 +44,7 @@ body {
   align-content: left;
   margin: 10px;
   background: #4A4C3A;
-  width: 40%;
+  width: 49%;
 }
 
 .Goal {
@@ -53,4 +53,5 @@ body {
   margin: 10px;
   background: #4A4C3A;
   width: 50%;
+  height: 98%;
 }
