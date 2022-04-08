@@ -33,6 +33,7 @@ body {
 }
 
 .Title img {
+  align-content: center;
   filter: brightness(40%);
   max-width:100%;
   height:auto;
