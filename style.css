@@ -34,6 +34,7 @@ body {
 
 .Title img {
   align-content: center;
+  align-items: center;
   filter: brightness(40%);
   max-width:100%;
   height:auto;
