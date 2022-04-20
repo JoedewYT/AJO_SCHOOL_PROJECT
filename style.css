@@ -52,16 +52,13 @@ body {
 
 .Goal {
   display: inline;
-  font-size: 97%;
   float: right;
   margin: 10px;
   background: #4A4C3A;
   width: 50%;
-  height: 95%;
-
 }
 
 .Tips {
+  margin: 20px;
   text-align: center;
-
 }
