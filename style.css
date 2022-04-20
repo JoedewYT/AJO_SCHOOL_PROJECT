@@ -59,7 +59,7 @@ body {
 }
 
 .Tips {
-  max-width: 100%;
+  width: 100%;
   margin: 200px;
   background: #4A4C3A;
   text-align: center;
