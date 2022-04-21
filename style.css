@@ -66,6 +66,7 @@ body {
 }
 
 footer {
+  display: inline;
   width: 100%;
   font-size: 50%;
   text-align: center;
