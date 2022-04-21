@@ -67,6 +67,8 @@ body {
 
 footer {
   width: 100%;
+  font-size: 25%;
+  text-align: center;
   align-items: center;
   font-weight: bold;
 }
