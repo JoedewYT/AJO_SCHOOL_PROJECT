@@ -64,3 +64,12 @@ body {
   background: #4A4C3A;
   text-align: center;
 }
+
+footer {
+  align-items: center;
+  font-weight: bold;
+}
+
+footer h1 {
+  color: pink;
+}
